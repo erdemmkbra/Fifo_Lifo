@@ -1,0 +1,8 @@
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\bin\Debug\Fifo_Lifo.exe.config
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\bin\Debug\Fifo_Lifo.exe
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\bin\Debug\Fifo_Lifo.pdb
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\obj\Debug\Fifo_Lifo.csproj.AssemblyReference.cache
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\obj\Debug\Fifo_Lifo.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\obj\Debug\Fifo_Lifo.csproj.CoreCompileInputs.cache
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\obj\Debug\Fifo_Lifo.exe
+C:\Users\kubra\source\repos\Fifo_Lifo\Fifo_Lifo\obj\Debug\Fifo_Lifo.pdb
